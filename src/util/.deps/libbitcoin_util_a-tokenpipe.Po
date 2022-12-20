@@ -1,0 +1,4 @@
+util/libbitcoin_util_a-tokenpipe.o: util/tokenpipe.cpp util/tokenpipe.h \
+ config/bitcoin-config.h
+util/tokenpipe.h:
+config/bitcoin-config.h:

@@ -1,0 +1,1 @@
+crypto/libbitcoin_crypto_base_la-neoscrypt_asm.lo: crypto/neoscrypt_asm.S

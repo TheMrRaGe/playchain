@@ -1,0 +1,5 @@
+# See https://github.com/playchain/playchain/issues/8#issuecomment-375992872.
+
+46.101.15.140
+178.62.99.51
+139.59.173.255

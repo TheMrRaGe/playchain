@@ -1,0 +1,10 @@
+prefix=/
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Playchain consensus library
+Description: Library for the Bitcoin consensus protocol.
+Version: 1.8.99
+Libs: -L${libdir} -lnamecoinconsensus
+Cflags: -I${includedir}
